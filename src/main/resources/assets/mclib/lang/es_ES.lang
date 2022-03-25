@@ -11,15 +11,15 @@ mclib.gui.no_data=Datos no disponibles...
 mclib.gui.open_folder=Abrir carpeta
 mclib.gui.pick_texture=Seleccionar textura
 
-mclib.gui.context.multi_skin.copy=Copy texture location
-mclib.gui.context.multi_skin.paste=Paste copied texture location
+mclib.gui.context.multi_skin.copy=Copiar ubicación de textura
+mclib.gui.context.multi_skin.paste=Pegar ubicación de textura
 
 # Don't remove space on the end!
 mclib.gui.dashboard.category=Tablero
 mclib.gui.dashboard.open_panel=Abrir 
 
-mclib.gui.graph.tooltip=Graphing calculator
-mclib.gui.graph.help=Click on this button to go to a web page which documents features of following graphing calculator.\n\nExpressions used here, can be also used in Aperture's math modifier and Commander's math expression evaluation within commands.\n\nThis graphing calculator provides only one variable "x" which is horizontal coordinate you can plug in into y=x (aka f(x)) graph functions.
+mclib.gui.graph.tooltip=Calculadora gráfica
+mclib.gui.graph.help=Clic en este botón para ir a una página web que documenta las características de la siguiente calculadora gráfica.\n\nExpressions used here, can be also used in Aperture's math modifier and Commander's math expression evaluation within commands.\n\nThis graphing calculator provides only one variable "x" which is horizontal coordinate you can plug in into y=x (aka f(x)) graph functions.
 mclib.gui.config.title=Configuraci�n
 mclib.gui.config.tooltip=Configuraci�n de los mods
 mclib.gui.config.reload_tooltip=Recargar configuraci�n desde el archivo...
